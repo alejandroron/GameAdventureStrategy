@@ -1,4 +1,4 @@
-package game;
+﻿package game;
 
 public class Barbarian extends Character {
 
@@ -13,5 +13,6 @@ public class Barbarian extends Character {
 		System.out.println("You are a strong, hulky barbarian. Añadimos texto en esta linea");
 		System.out.println("You are a strong, hulky barbarian. User 1 añade linea. Resolvemos conflicto directamente
 		System.out.println("Arreglado conflicto");
+		System.out.println("Arreglado conflict0o");
 	}
 }
